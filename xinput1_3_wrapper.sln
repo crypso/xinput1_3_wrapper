@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common", "Common\Common.vcxproj", "{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xinput1_3_wrapper", "xinput1_3_wrapper\xinput1_3_wrapper.vcxproj", "{CB68FC02-ACA3-426D-AC8E-686C481DB96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}.Debug|Win32.Build.0 = Debug|Win32
+		{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}.Release|Win32.ActiveCfg = Release|Win32
+		{0CAEE158-51E4-4C81-8CAC-F39F744DAF2D}.Release|Win32.Build.0 = Release|Win32
+		{CB68FC02-ACA3-426D-AC8E-686C481DB96D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB68FC02-ACA3-426D-AC8E-686C481DB96D}.Debug|Win32.Build.0 = Debug|Win32
+		{CB68FC02-ACA3-426D-AC8E-686C481DB96D}.Release|Win32.ActiveCfg = Release|Win32
+		{CB68FC02-ACA3-426D-AC8E-686C481DB96D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
